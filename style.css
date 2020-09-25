@@ -1,0 +1,134 @@
+.logo{
+    position: absolute;
+width: 50px;
+height: 49.92px;
+left: 58px;
+top: 51.86px;
+}
+.heading1{
+    position: absolute;
+width: 133px;
+height: 30px;
+left: 122px;
+top: 40px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 30px;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+.nav{
+    position: absolute;
+width: 695px;
+height: 20px;
+left: 616px;
+top: 50px;
+display:flex;
+flex-direction: row;
+list-style-type: none;    
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #EA5450;
+
+}
+.h{
+    padding-right: 20px;
+}
+.search{
+    position: absolute;
+width: 25px;
+height: 25px;
+left: 1351px;
+top: 66px;
+
+}
+.Daily{
+    position: absolute;
+width: 311px;
+height: 164px;
+left: 66px;
+top: 200px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 800;
+font-size: 71px;
+line-height: 82px;
+/* or 115% */
+
+
+color: #FF4141;
+}
+.para{
+    position: absolute;
+width: 595px;
+height: 127px;
+left: 70px;
+top: 450px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 32px;
+/* or 168% */
+
+
+color: #999999;
+
+}
+.find{
+  position: absolute;
+width: 212px;
+height: 62px;
+left: 71px;
+top: 608px;
+
+background: #FF4141;
+border: 2px solid #FFE3CB;
+box-sizing: border-box;
+border-radius: 100px;
+
+}
+.fid{
+    padding-left: 30px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 32px;
+/* identical to box height, or 188% */
+text-transform: uppercase;
+color: #FFFFFF;
+
+}
+.img51{
+    position: absolute;
+width: 954px;
+height: 848px;
+left: 536px;
+top: 102px;
+}
+.imgg{
+    
+position: absolute;
+width: 726px;
+height: 726px;
+left: 661px;
+top: 176px;
+
+}
+
